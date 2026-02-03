@@ -1,3 +1,7 @@
 1. Pros of agile development: Timely delivery and adaptability.
    Cons of agile development: variable goals and lack of documentation.
 
+2. Scrum Master: facilitating key scrum events and fostering a high 
+   performing, self managing team environment.
+   Product Owner: Setting goals, prioritizing features for development, 
+   and communicating with stakeholders.
