@@ -5,3 +5,8 @@
    performing, self managing team environment.
    Product Owner: Setting goals, prioritizing features for development, 
    and communicating with stakeholders.
+
+3. The three types of meetings are Sprint Planning, Daily Scrum, and Sprint Review.
+   Sprint Planning: Determine sprint goals and select tasks from the product backlog.
+   Daily Scrum: Track progress and identify blockers.
+   Sprint review: gather feedback and adjust backlog.
