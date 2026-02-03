@@ -10,3 +10,8 @@
    Sprint Planning: Determine sprint goals and select tasks from the product backlog.
    Daily Scrum: Track progress and identify blockers.
    Sprint review: gather feedback and adjust backlog.
+
+4. Epic: Big user story that needs to be broken down. Tracks progress of a larger initiative.
+   Story: smallest unit of work that needs to be done.
+   Bug: Problem that impairs of prevents the functions of a product.
+   Task: Represents work that needs to be done.
